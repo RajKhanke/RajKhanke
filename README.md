@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Raj Khanke</h1>
-<h3 align="center">A passionate Engineering undergraduate , Machine Learning and Data Science Enthusiast from India</h3>
+###
+
+<div align="center">
+  <img height="300" src="https://miro.medium.com/v2/resize:fit:1400/1*fhZsggnseKdBmY3_JonRkA.gif"  />
+</div>
+
+###
+
+###
+
+<h3 align="left">- 👋 Machine Learning and Data Science Enthusiast .<br>- 🌱 Third year undergraduate in CSE (AIML) Vishwakarma Institute Technology, Pune .<br>- 💬 Eagerous to learn new things and work on New Challenges.<br>- ⚡I think i am funny because i never miss to watch any cricket match of India </h3>
+
+###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkhanke&label=Profile%20views&color=0e75b6&style=flat" alt="rajkhanke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkhanke" alt="rajkhanke" /></a> </p>
 
-- 🌱 I’m currently learning **Development and DSA**
-
-- 💬 Ask me about **Data science , Machine learning**
-
-- 📫 How to reach me **rajvkhanke@gmail.com**
-
-- ⚡ Fun fact **I think i am funny because i never miss to watch any cricket match of India**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
