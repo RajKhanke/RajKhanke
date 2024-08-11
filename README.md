@@ -34,7 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkhanke&" alt="rajkhanke" /></p>
 
-## GSSoC'24 Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <h2 align="center">⚡ Contributor @Gssoc'24, received 103rd Rank and Following Badges : </h1>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
