@@ -13,7 +13,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RajKhanke.RajKhanke&left_text=Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RajKhanke&left_text=Views"  />
 </div>
 
 ###
