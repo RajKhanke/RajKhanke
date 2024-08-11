@@ -12,7 +12,11 @@
 <h3 align="left">- 👋 Machine Learning and Data Science Enthusiast .<br>- 🌱 Third year undergraduate in CSE (AIML) Vishwakarma Institute Technology, Pune .<br>- 💬 Eagerous to learn new things and work on New Challenges.<br>- ⚡I think i am funny because i never miss to watch any cricket match of India </h3>
 
 ###
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkhanke&label=Profile%20views&color=0e75b6&style=flat" alt="rajkhanke" /> </p>
+
+
 ###
 
 <h3 align="left">Connect with me:</h3>
@@ -39,8 +43,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
- <!--  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
+
 </div>
 
 ###
