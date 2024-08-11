@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Khanke</h1>
+
 ###
 
 <div align="center">
@@ -11,11 +12,7 @@
 <h3 align="left">- 👋 Machine Learning and Data Science Enthusiast .<br>- 🌱 Third year undergraduate in CSE (AIML) Vishwakarma Institute Technology, Pune .<br>- 💬 Eagerous to learn new things and work on New Challenges.<br>- ⚡I think i am funny because i never miss to watch any cricket match of India </h3>
 
 ###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RajKhanke&left_text=Views"  />
-</div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkhanke&label=Profile%20views&color=0e75b6&style=flat" alt="rajkhanke" /> </p>
 ###
 
 <h3 align="left">Connect with me:</h3>
