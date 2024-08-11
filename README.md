@@ -7,14 +7,16 @@
 
 ###
 
-###
 
 <h3 align="left">- 👋 Machine Learning and Data Science Enthusiast .<br>- 🌱 Third year undergraduate in CSE (AIML) Vishwakarma Institute Technology, Pune .<br>- 💬 Eagerous to learn new things and work on New Challenges.<br>- ⚡I think i am funny because i never miss to watch any cricket match of India </h3>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkhanke&label=Profile%20views&color=0e75b6&style=flat" alt="rajkhanke" /> </p>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RajKhanke.RajKhanke&left_text=Views"  />
+</div>
 
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
