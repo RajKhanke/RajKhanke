@@ -3,8 +3,11 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://miro.medium.com/v2/resize:fit:1400/1*fhZsggnseKdBmY3_JonRkA.gif"  />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;AI%2FML+Developer;Cricket+Fan+%F0%9F%8F%8F)](https://git.io/typing-svg)
+
 </div>
+
 
 ###
 
