@@ -127,11 +127,14 @@
 </table>
 
 </div>
-
-![Programming Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20C%20%7C%20JavaScript-blue?style=for-the-badge&logo=code&logoColor=white)  
-![ML/AI](https://img.shields.io/badge/AI%2FML-TensorFlow%20%7C%20PyTorch%20%7C%20Scikit--Learn-green?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Web Dev](https://img.shields.io/badge/Web-Flask%20%7C%20FastAPI%20%7C%20HTML%2FCSS-orange?style=for-the-badge&logo=flask&logoColor=white)  
-![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20Git%20%7C%20HuggingFace-red?style=for-the-badge&logo=huggingface&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20C%20%7C%20JavaScript-blue?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-TensorFlow%20%7C%20PyTorch%20%7C%20Scikit--Learn-green?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Web-Flask%20%7C%20FastAPI%20%7C%20HTML%2FCSS-orange?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Docker%20%7C%20Git%20%7C%20HuggingFace-red?style=for-the-badge&logo=huggingface&logoColor=white" />
+</p>
 
 </div>
 
