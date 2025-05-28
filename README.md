@@ -37,7 +37,7 @@
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
+<br>R
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
@@ -87,7 +87,7 @@
 </td>
 <td align="center" width="96">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
-<br>🤗 HF
+<br>HuggingFace
 </td>
 </tr>
 <tr>
@@ -120,7 +120,8 @@
 <br>VS Code
 </td>
 <td align="center" width="96">
-<img src="https://python-visualization.github.io/folium/_images/folium_logo.jpg" width="48" height="48" alt="Folium" />
+<img src="![image](https://github.com/user-attachments/assets/90fbe951-e6cc-480e-a41e-d6a313e034bb)
+" width="48" height="48" alt="Folium" />
 <br>Folium
 </td>
 </tr>
