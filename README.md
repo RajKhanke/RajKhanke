@@ -145,7 +145,7 @@
 <div align="center">
 
   <!-- Top Languages Box with Reduced Height -->
-  <img height="170px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkhanke&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="200px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkhanke&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
   
   <!-- GitHub Stats -->
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rajkhanke&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
