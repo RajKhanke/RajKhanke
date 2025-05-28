@@ -15,7 +15,8 @@
 ---
 ###
 
-## <img src = "https://iconscout.com/lottie-animation/hacker-9060123_7387934" width = 41px>&nbsp;&nbsp; About Me
+## <img src = "![image](https://github.com/user-attachments/assets/f94153ea-37f8-4cc1-b6a6-fde3cdb5d3dc)
+" width = 41px>&nbsp;&nbsp; About Me
 <img align = "right" src = "https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif" width = 250px></img>
 
 - 👋 Passionate Data Science & AIML Developer currently exploring GenAI & MLOPS
