@@ -52,8 +52,8 @@
 <br>CSS
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="SQL" />
-<br>SQL
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUe0luBeZSgdQFDdgb-NQckHl6W67j1S39bhFpz3lpxXLhmTeBOIyMGsQDDwxxqCHXgAo&usqp=CAU" width="48" height="48" alt="SQL" />
+<br>Plotly
 </td>
 </tr>
 <tr>
