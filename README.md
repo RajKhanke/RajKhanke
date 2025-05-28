@@ -16,9 +16,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="30" /> About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ```python
 class RajKhanke:
@@ -31,7 +29,7 @@ class RajKhanke:
         
     def current_focus(self):
         return [
-            "🧠 Advanced Machine Learning Techniques",
+            "🧠 Advanced Machine Learning",
             "🔥 Deep Learning & Neural Networks", 
             "☁️ Cloud Integration & MLOps",
             "📈 Real-World Problem Solving"
@@ -40,37 +38,19 @@ class RajKhanke:
     def tech_stack(self):
         return {
             "languages": ["Python", "Java", "C", "SQL"],
-            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face"],
-            "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "web_frameworks": ["Flask", "FastAPI"],
-            "databases": ["MySQL"],
-            "tools": ["Git", "Docker", "Postman", "Jupyter"]
+            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
+            "data_tools": ["Pandas", "NumPy", "Matplotlib"],
+            "web": ["Flask", "FastAPI"],
+            "tools": ["Git", "Docker", "MySQL"]
         }
     
     def fun_fact(self):
-        return "🏏 So loyal to cricket, I've never missed an Indian match! 🇮🇳"
-    
-    def goals_2025(self):
-        return [
-            "🎯 Master MLOps and Production ML Systems",
-            "🚀 Contribute to Open Source ML Projects", 
-            "📚 Complete Advanced Deep Learning Specialization",
-            "💼 Land a Data Science Internship"
-        ]
+        return "🏏 Cricket fan - Never missed an Indian match! 🇮🇳"
 
-# Initialize
 raj = RajKhanke()
-print(f"Hi! I'm {raj.name} 👋")
 ```
 
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" style="border-radius:15px;"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="30" /> Connect with Me
 
@@ -94,46 +74,24 @@ print(f"Hi! I'm {raj.name} 👋")
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
 <div align="center">
-
-### Languages & Core Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql" alt="Languages"/>
-</p>
-
-### AI/ML & Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="ML Frameworks"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
-</p>
-
-### Development & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,docker,git,github,vscode,postman,linux" alt="Dev Tools"/>
-</p>
-
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql,tensorflow,pytorch,opencv,flask,fastapi,mysql,docker,git,github,vscode,postman,linux&theme=dark" alt="Tech Stack"/>
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="30" /> GSSoC'24 Achievement
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="250" alt="GSSoC Achievement GIF">
-
 ### 🏆 Achieved 103rd Rank 🏆
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="70px" height="70px" alt="Postman White Badge"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="70px" height="70px" alt="Badge 1"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="70px" height="70px" alt="Badge 2"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="70px" height="70px" alt="Badge 3"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="70px" height="70px" alt="Badge 4"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="70px" height="70px" alt="Badge 5"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="70px" height="70px" alt="Badge 6"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="70px" height="70px" alt="Badge 7"/>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman White Badge"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Badge 1"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="Badge 2"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Badge 3"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" alt="Badge 4"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Badge 5"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" alt="Badge 6"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" alt="Badge 7"/>
 </div>
 
 </div>
@@ -141,22 +99,34 @@ print(f"Hi! I'm {raj.name} 👋")
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajkhanke&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkhanke&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=rajkhanke&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkhanke&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkhanke&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rajkhanke&theme=github_dark&hide_border=true" alt="Wakatime Stats"/>
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
-
 <div align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkhanke&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajKhanke&theme=github-compact&bg_color=0d1117&hide_border=true&line=58a6ff&point=58a6ff&color=ffffff" width="100%" alt="GitHub Activity Graph"/>
 </div>
 
-<br/>
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="30" /> My Contributions
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajKhanke&theme=react-dark&bg_color=20232a&hide_border=true&line=00D9FF&point=00D9FF&color=ffffff" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://raw.githubusercontent.com/RajKhanke/RajKhanke/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="30" /> Profile Views & Trophies
@@ -165,19 +135,20 @@ print(f"Hi! I'm {raj.name} 👋")
 
 <img src="https://komarev.com/ghpvc/?username=rajkhanke&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/RajKhanke?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/RajKhanke?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RajKhanke&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RajKhanke&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="30" /> Random Dev Quote
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 </div>
 
 ---
