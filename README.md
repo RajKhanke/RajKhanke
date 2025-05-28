@@ -173,9 +173,10 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=RajKhanke&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+</div>div>
+---
 
-
-# <img src="https://ugokawaii.com/wp-content/uploads/2022/08/increase.gif" width="32"> GitHub Analytics
+# <img src="https://ugokawaii.com/wp-content/uploads/2022/08/increase.gif" width="32"> GSSOC 2024 Badges (Achieved 103rd Rank)
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
