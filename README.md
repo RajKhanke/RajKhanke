@@ -227,14 +227,10 @@ print(f"Hi! I'm {raj.name} 👋")
 
 <div align="center">
 
-### 🏆 **GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=RajKhanke&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" alt="GitHub Trophies" style="border-radius: 15px;"/>
-
-</div>
-
-<br/>
-
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="30" /> Profile Views & Trophies
 <div align="center">
-
+<img src="https://komarev.com/ghpvc/?username=rajkhanke&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/RajKhanke?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+</div>
+<br/>
 
