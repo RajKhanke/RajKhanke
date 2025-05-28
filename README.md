@@ -116,8 +116,8 @@
 <br>GitHub
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="48" height="48" alt="VS Code" />
+<br>LangCahin
 </td>
 <td align="center" width="96">
 <img src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" width="48" height="48" alt="Folium" />
