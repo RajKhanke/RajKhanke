@@ -175,56 +175,15 @@
   <img src="https://github-profile-trophy.vercel.app?username=RajKhanke&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
 
 
-
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35" /> **GSSoC'24 Badges** 🏆
-
-<div align="center">
-  
-### 🌟 **Achieved 103rd Rank in GSSoC'24** 🌟
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
-        <br><b>Postman</b>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
-        <br><b>Level 1</b>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
-        <br><b>Level 2</b>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
-        <br><b>Level 3</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
-        <br><b>Level 4</b>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
-        <br><b>Level 5</b>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="125px" height="125px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
-        <br><b>Level 6</b>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80px" height="80px"/>
-        <br><b>🎯 103rd Rank</b>
-      </td>
-    </tr>
-  </table>
+## GSSoC'24 Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></a>
 </div>
 
 <div align="center">
