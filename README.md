@@ -36,7 +36,7 @@
 <br>C
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="48" height="48" alt="C++" />
 <br>R
 </td>
 <td align="center" width="96">
