@@ -170,10 +170,9 @@
 <br/>
 
 <!-- Trophies -->
-<div align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=rajkhanke&theme=radical&no-frame=true&row=1&column=6"/>
-</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=RajKhanke&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
 
 
 
@@ -235,35 +234,7 @@
 <br/>
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35" /> Profile Analytics & Achievements
-
-<div align="center">
-
-### 📊 **Profile Statistics**
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=rajkhanke&label=Profile%20Views&color=8b5cf6&style=for-the-badge&logo=eye" alt="Profile Views" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/followers/RajKhanke?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" alt="GitHub Followers" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/RajKhanke?label=Total%20Stars&style=for-the-badge&color=8b5cf6&logo=star" alt="Total Stars" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-
 ###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=RajKhanke&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajKhanke&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
