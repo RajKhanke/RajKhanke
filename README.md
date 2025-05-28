@@ -146,6 +146,7 @@ print(f"Hi! I'm {raj.name} 👋")
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></a>
 </div>
+<br/>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajKhanke&theme=react-dark&bg_color=20232a&hide_border=true&line=00D9FF&point=00D9FF&color=ffffff" width="95%" alt="GitHub Activity Graph"/>
