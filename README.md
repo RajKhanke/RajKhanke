@@ -13,6 +13,23 @@
 </div>
 
 ---
+###
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
+
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
+<img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
+
+- 👋 I'm a passionate coder & open source enthusiast.
+- 🏫 Pre-final year B.Tech IT student at Vishwakarma Institute Technology, Pune.
+- 🧑‍💻 My expertise in Web Dev include MERN Stack, Tailwind, Flask, SpringBoot, PostgreSQL.
+- ♾️ Eager & Enjoy to learn ෴❤️ DevOps ❤️෴  tools.
+- ⭐ In top 100 Contributors at [`GSSoC'24`](https://gssoc.girlscript.tech/).
+- ⭐ Contributer at [`Hactoberfest'24`](https://hacktoberfest.com/).
+- ⭐ Participant at [`KWoC'24`](https://kwoc.kossiitkgp.org/),[`SWoC'25`](https://www.socialwinterofcode.com/), [`DWoC'25`](https://dwoc.io/) & [`IWoC'25`](https://iwoc3.devfolio.co/)
+- 🙂 In my working time, I code & In  my free time, I code ......
+
+---
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
