@@ -140,7 +140,7 @@
 
 ---
 <!-- GitHub Analytics Section -->
-<h2 align="left"><strong><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> <span style="font-size: 28px;">GitHub Analytics</span></strong></h2>
+# <img src=""https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Tech Stack
 
 <div align="center">
 
