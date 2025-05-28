@@ -228,13 +228,6 @@
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35" /> Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajKhanke&theme=github-dark&bg_color=0d1117&hide_border=true&line=8b5cf6&point=a855f7&color=ffffff&area=true&area_color=8b5cf6" width="95%" alt="GitHub Activity Graph" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(139, 92, 246, 0.3);"/>
-</div>
-
-<br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35" /> Profile Analytics & Achievements
 
@@ -260,12 +253,11 @@
 
 <br/>
 
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="30" /> Profile Views & Trophies
+###
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rajkhanke&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/RajKhanke?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://github-profile-trophy.vercel.app?username=PratikMane0112&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikMane0112&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-<br/>
 
