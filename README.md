@@ -14,33 +14,37 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="30" /> About Me
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Skills
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>   Skills
 <p align = "center">
-<code><img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
-<code><img src = "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> </a></code>
-<code><img src = "https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
-<code><img height="45px" src = "https://cdn-icons-png.flaticon.com/128/16425/16425634.png"/> </a></code>
-<code><a href = "https://html.com/"> <img src = "https://img.icons8.com/color/50/000000/html-5.png"/> </a></code>
-<code><a href = "https://web.dev/learn/css/"> <img src = "https://img.icons8.com/color/50/000000/css3.png"/> </a></code>
-<code><img src = "https://img.icons8.com/color/50/FAB005/javascript--v1.png"/> </a></code>
-<code><img height="45px" src = "https://cdn-icons-png.flaticon.com/128/3459/3459528.png"/> </a></code>
-<code><img height="45px" src = "https://cdn-icons-png.flaticon.com/128/5968/5968322.png"/> </a></code>
-<code><img height="45px" src = "https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png"/> </a></code>
-<code><img height="45px" src = "https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png"/> </a></code>
-<code><img height="45px" src = "https://img.icons8.com/?size=64&id=ewGOClUtmFX4&format=png"/> </a></code>
-<code><img height="45px" src = "https://img.icons8.com/?size=48&id=90519&format=png"/> </a></code>
-<code><img height="45px" src = "https://img.icons8.com/?size=40&id=2oBx9FpXcbLa&format=png"/> </a></code>
-<code><img height="45px" src = "https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png"/> </a></code>
-<code><img height="45px" src = "https://img.icons8.com/?size=48&id=38561&format=png"/> </a></code>
-<code><img height="45px" src = "https://img.icons8.com/?size=48&id=74402&format=png"/> </a></code>
-<code><img src = "https://img.icons8.com/color/50/000000/git.png"/> </a></code>
-<code><img height="50px" src = "https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png"/> </a></code>
-<code><img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
-<!-- <code><img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code> -->
+<code><img src = "https://skillicons.dev/icons?i=python" alt="Python" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=java" alt="Java" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=c" alt="C" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=keras" alt="Keras" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=seaborn" alt="Seaborn" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=plotly" alt="Plotly" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=numpy" alt="NumPy" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=pandas" alt="Pandas" width="50px"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/000000/sql.png" alt="SQL" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=github" alt="GitHub" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=flask" alt="Flask" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=html" alt="HTML" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=css" alt="CSS" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=js" alt="JavaScript" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=r" alt="R" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=docker" alt="Docker" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50px"/> </a></code>
+<code><img src = "https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="50px"/> </a></code>
+<code><img src = "https://user-images.githubusercontent.com/66123715/191982074-b9e7a11d-10ac-4f43-ac98-3502c2efc378.png" alt="Folium" width="50px"/> </a></code>
 </p>
-</td>
-<td width="50%" align="center" valign="top">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" style="border-radius:15px;"/>
 
