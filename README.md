@@ -117,17 +117,6 @@ print(f"Hi! I'm {raj.name} 👋")
 
 </div>
 
-## GSSoC'24 Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></a>
-</div>
-  
 ###
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
@@ -146,6 +135,21 @@ print(f"Hi! I'm {raj.name} 👋")
 </div>
 
 <br/>
+
+<div align="center"> <!-- Center the entire block -->
+  <div style="display:flex; align-items:center; justify-content:center; gap: 10px;"> <!-- Flex container for badges with spacing -->
+    <a href="https://gssoc.girlscript.tech/leaderboard" style="text-decoration: none;"> <!-- Link wrapping all badges, no underline -->
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" alt="Postman Badge"/> <!-- Standardized size, added alt text -->
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" alt="Badge 1"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" height="100" alt="Badge 2"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" alt="Badge 3"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" alt="Badge 4"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" height="100" alt="Badge 5"/>
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100" height="100" alt="Badge 6"/> <!-- Standardized size -->
+    </a>
+  </div>
+  <p align="center">Achieved 103rd rank</p> <!-- Centered text below the badges -->
+</div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajKhanke&theme=react-dark&bg_color=20232a&hide_border=true&line=00D9FF&point=00D9FF&color=ffffff" width="95%" alt="GitHub Activity Graph"/>
