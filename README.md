@@ -173,25 +173,38 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=RajKhanke&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-</div>div>
+</div>
 ---
 
-# <img src="https://ugokawaii.com/wp-content/uploads/2022/08/increase.gif" width="32"> GSSOC 2024 Badges (Achieved 103rd Rank)
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></a>
-</div>
+<!-- GSSOC 2024 Badges (Stylish Version) -->
+<h2 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #004aad;">
+  <img src="https://ugokawaii.com/wp-content/uploads/2022/08/increase.gif" width="40">
+  GSSOC 2024 Badges <br><small style="color:gray;">(Achieved 103rd Rank)</small>
+</h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(to bottom right, #f0f8ff, #e6f7ff); border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); max-width: 1000px; margin: auto;">
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank" style="transition: transform 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="140px" height="140px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="140px" height="140px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="140px" height="140px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="140px" height="140px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="140px" height="140px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="140px" height="140px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="145px" height="145px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
 </div>
-
-<br/>
 
 
 ###
