@@ -112,12 +112,12 @@
 <br>Git
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="GitHub" />
+<br>Arduino
 </td>
 <td align="center" width="96">
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="48" height="48" alt="VS Code" />
-<br>LangCahin
+<br>LangChain
 </td>
 <td align="center" width="96">
 <img src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" width="48" height="48" alt="Folium" />
