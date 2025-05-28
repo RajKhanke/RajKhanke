@@ -15,19 +15,16 @@
 ---
 ###
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
-
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
-<img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
+<img align = "right" src = "https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif" width = 250px></img>
 
-- 👋 I'm a passionate coder & open source enthusiast.
-- 🏫 Pre-final year B.Tech IT student at Vishwakarma Institute Technology, Pune.
-- 🧑‍💻 My expertise in Web Dev include MERN Stack, Tailwind, Flask, SpringBoot, PostgreSQL.
-- ♾️ Eager & Enjoy to learn ෴❤️ DevOps ❤️෴  tools.
-- ⭐ In top 100 Contributors at [`GSSoC'24`](https://gssoc.girlscript.tech/).
-- ⭐ Contributer at [`Hactoberfest'24`](https://hacktoberfest.com/).
-- ⭐ Participant at [`KWoC'24`](https://kwoc.kossiitkgp.org/),[`SWoC'25`](https://www.socialwinterofcode.com/), [`DWoC'25`](https://dwoc.io/) & [`IWoC'25`](https://iwoc3.devfolio.co/)
-- 🙂 In my working time, I code & In  my free time, I code ......
+- 👋 Passionate Data Science & AIML Developer currently exploring GenAI & MLOPS
+- 🏫 Final year B.Tech student at Vishwakarma Institute Technology, Pune in CSE(AIML)
+- 🧑‍💻 Curious to learn Things and Technologies and adaptible to changes with Ability for Rapid Application Developement
+- ⭐ Contributer at [`GSSoC'24`](https://gssoc.girlscript.tech/). (Achieved 103rd Rank) and  [`Hactoberfest'24`](https://hacktoberfest.com/).
+- ⭐ Led a Hackathon Team to Victories at [`Cavista Hackathon 2025`](https://cavista-hackathon-2025.devpost.com/) and [`AGRI-AI Hackathon 2025`](https://unstop.com/hackathons/agriai-hackathon-abhisarga-2025-indian-institute-of-information-technology-iiit-sricity-1390394).
+- ⭐ part of Runner-Up Hackathon Teams at [`Smart India Hackathon (SIH) 2024`](https://www.sih.gov.in/). and  [`Odyssey of Code Hackathon 2025`](https://unstop.com/hackathons/odyssey-of-code-consultadd-inc-1434772).
+- 🙂 I spend my free time stalking all my friends' activities — and in my working hours, I just do it professionally
 
 
 
