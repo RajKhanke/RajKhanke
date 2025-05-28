@@ -174,6 +174,8 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=RajKhanke&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
 </div>
+
+
 ---
 
 # <img src="https://ugokawaii.com/wp-content/uploads/2022/08/increase.gif" width="32"> GSSOC 2024 Badges (Achieved 103rd Rank)
