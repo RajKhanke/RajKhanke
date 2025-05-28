@@ -237,19 +237,4 @@ print(f"Hi! I'm {raj.name} 👋")
 
 <div align="center">
 
-### 🎯 **Contribution Streaks & Highlights**
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkhanke&theme=dark&hide_border=true&background=0D1117&stroke=8b5cf6&ring=a855f7&fire=f59e0b&currStreakLabel=ffffff" alt="Streak Stats" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rajkhanke&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=a855f7&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
-
-</div>
