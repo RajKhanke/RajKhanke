@@ -120,7 +120,7 @@
 <br>VS Code
 </td>
 <td align="center" width="96">
-<img src="![image](https://github.com/user-attachments/assets/90fbe951-e6cc-480e-a41e-d6a313e034bb)
+<img src="https://datascientest.com/en/files/2023/09/illu_folium-69-1024x562-1.png alt="Folium"
 " width="48" height="48" alt="Folium" />
 <br>Folium
 </td>
