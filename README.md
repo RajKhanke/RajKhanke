@@ -136,44 +136,137 @@ print(f"Hi! I'm {raj.name} 👋")
 
 <br/>
 
-## GSSoC'24 Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></a>
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35" /> **GSSoC'24 Badges** 🏆
+
+<div align="center">
+  
+### 🌟 **Achieved 103rd Rank in GSSoC'24** 🌟
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
 </div>
+
+<div align="center" style="margin: 30px 0;">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
+        <br><b>Postman</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
+        <br><b>Level 1</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
+        <br><b>Level 2</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
+        <br><b>Level 3</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
+        <br><b>Level 4</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="120px" height="120px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
+        <br><b>Level 5</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="125px" height="125px" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: transform 0.3s ease;"/>
+        <br><b>Level 6</b>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80px" height="80px"/>
+        <br><b>🎯 103rd Rank</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+</div>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35" /> Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajKhanke&theme=github-dark&bg_color=0d1117&hide_border=true&line=8b5cf6&point=a855f7&color=ffffff&area=true&area_color=8b5cf6" width="95%" alt="GitHub Activity Graph" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(139, 92, 246, 0.3);"/>
+</div>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35" /> Profile Analytics & Achievements
+
+<div align="center">
+
+### 📊 **Profile Statistics**
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=rajkhanke&label=Profile%20Views&color=8b5cf6&style=for-the-badge&logo=eye" alt="Profile Views" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/RajKhanke?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" alt="GitHub Followers" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/RajKhanke?label=Total%20Stars&style=for-the-badge&color=8b5cf6&logo=star" alt="Total Stars" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajKhanke&theme=react-dark&bg_color=20232a&hide_border=true&line=00D9FF&point=00D9FF&color=ffffff" width="95%" alt="GitHub Activity Graph"/>
-</div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="30" /> Profile Views & Trophies
+### 🏆 **GitHub Trophies**
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rajkhanke&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/RajKhanke?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+<img src="https://github-profile-trophy.vercel.app/?username=RajKhanke&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" alt="GitHub Trophies" style="border-radius: 15px;"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RajKhanke&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+
+### 🎯 **Contribution Streaks & Highlights**
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkhanke&theme=dark&hide_border=true&background=0D1117&stroke=8b5cf6&ring=a855f7&fire=f59e0b&currStreakLabel=ffffff" alt="Streak Stats" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rajkhanke&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=a855f7&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="30" /> Random Dev Quote
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=0D1117&border_color=8b5cf6" alt="Dev Quote" style="border-radius: 10px;"/>
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  <h3>⭐ Thanks for visiting my profile! ⭐</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
