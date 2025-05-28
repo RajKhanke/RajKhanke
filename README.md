@@ -13,37 +13,44 @@
 </div>
 
 ---
-
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>   Skills
 <p align = "center">
-<code><img src = "https://skillicons.dev/icons?i=python" alt="Python" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=java" alt="Java" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=c" alt="C" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=keras" alt="Keras" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=seaborn" alt="Seaborn" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=plotly" alt="Plotly" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=numpy" alt="NumPy" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=pandas" alt="Pandas" width="50px"/> </a></code>
-<code><img src = "https://img.icons8.com/color/50/000000/sql.png" alt="SQL" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=github" alt="GitHub" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=flask" alt="Flask" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=html" alt="HTML" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=css" alt="CSS" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=js" alt="JavaScript" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=r" alt="R" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=docker" alt="Docker" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50px"/> </a></code>
-<code><img src = "https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="50px"/> </a></code>
-<code><img src = "https://user-images.githubusercontent.com/66123715/191982074-b9e7a11d-10ac-4f43-ac98-3502c2efc378.png" alt="Folium" width="50px"/> </a></code>
+    <code><img src="https://skillicons.dev/icons?i=python" alt="Python" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=java" alt="Java" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=c" alt="C" width="50px"/></a></code>
+    <br> <!-- Optional break to group languages -->
+    <code><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=keras" alt="Keras" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=plotly" alt="Plotly" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=folium" alt="Folium" width="50px"/></a></code>
+     <br> <!-- Optional break to group data science -->
+    <code><img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50px"/></a></code>
+    <br> <!-- Optional break -->
+    <code><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="50px"/></a></code>
+    <br> <!-- Optional break for web dev -->
+    <code><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50px"/></a></code>
+     <br> <!-- Optional break -->
+    <code><img src="https://skillicons.dev/icons?i=r" alt="R" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" width="50px"/></a></code>
+    <br> <!-- Optional break -->
+    <code><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50px"/></a></code>
+    <code><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50px"/></a></code>
+    <br> <!-- Optional break -->
+    <code><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50px"/></a></code>
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" style="border-radius:15px;"/>
