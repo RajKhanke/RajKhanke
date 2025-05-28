@@ -139,14 +139,13 @@
 </div>
 
 ---
-
 <!-- GitHub Analytics Section -->
-<h2 align="center"><strong><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Analytics</strong></h2>
+<h2 align="left"><strong><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> <span style="font-size: 28px;">GitHub Analytics</span></strong></h2>
 
 <div align="center">
 
-  <!-- Top Languages Moved to Left -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkhanke&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <!-- Top Languages Box with Reduced Height -->
+  <img height="170px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkhanke&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
   
   <!-- GitHub Stats -->
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rajkhanke&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -166,10 +165,11 @@
 
 <div align="center">
 
-  <!-- GitHub Profile Trophy for Extra Stats (followers, stars, etc.) -->
+  <!-- GitHub Profile Trophy -->
   <img width="80%" src="https://github-profile-trophy.vercel.app/?username=rajkhanke&theme=radical&no-frame=true&row=1&column=6"/>
 
 </div>
+
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35" /> **GSSoC'24 Badges** 🏆
