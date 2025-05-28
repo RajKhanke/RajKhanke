@@ -15,53 +15,30 @@
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="30" /> About Me
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```python
-class RajKhanke:
-    def __init__(self):
-        self.name = "Raj Khanke"
-        self.role = "AI/ML Developer & Data Science Explorer"
-        self.location = "Pune, Maharashtra, India"
-        self.education = "CSE (AIML) - VIT Pune"
-        self.year = "Third Year Student"
-        
-    def current_focus(self):
-        return [
-            "🧠 Advanced Machine Learning Techniques",
-            "🔥 Deep Learning & Neural Networks", 
-            "☁️ Cloud Integration & MLOps",
-            "📈 Real-World Problem Solving"
-        ]
-    
-    def tech_stack(self):
-        return {
-            "languages": ["Python", "Java", "C", "SQL"],
-            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face"],
-            "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "web_frameworks": ["Flask", "FastAPI"],
-            "databases": ["MySQL"],
-            "tools": ["Git", "Docker", "Postman", "Jupyter"]
-        }
-    
-    def fun_fact(self):
-        return "🏏 So loyal to cricket, I've never missed an Indian match! 🇮🇳"
-    
-    def goals_2025(self):
-        return [
-            "🎯 Master MLOps and Production ML Systems",
-            "🚀 Contribute to Open Source ML Projects", 
-            "📚 Complete Advanced Deep Learning Specialization",
-            "💼 Land a Data Science Internship"
-        ]
-
-# Initialize
-raj = RajKhanke()
-print(f"Hi! I'm {raj.name} 👋")
-```
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Skills
+<p align = "center">
+<code><img src = "https://img.icons8.com/color/50/000000/c-programming.png"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
+<code><img height="45px" src = "https://cdn-icons-png.flaticon.com/128/16425/16425634.png"/> </a></code>
+<code><a href = "https://html.com/"> <img src = "https://img.icons8.com/color/50/000000/html-5.png"/> </a></code>
+<code><a href = "https://web.dev/learn/css/"> <img src = "https://img.icons8.com/color/50/000000/css3.png"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/FAB005/javascript--v1.png"/> </a></code>
+<code><img height="45px" src = "https://cdn-icons-png.flaticon.com/128/3459/3459528.png"/> </a></code>
+<code><img height="45px" src = "https://cdn-icons-png.flaticon.com/128/5968/5968322.png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=64&id=ewGOClUtmFX4&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=48&id=90519&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=40&id=2oBx9FpXcbLa&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=48&id=38561&format=png"/> </a></code>
+<code><img height="45px" src = "https://img.icons8.com/?size=48&id=74402&format=png"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/000000/git.png"/> </a></code>
+<code><img height="50px" src = "https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png"/> </a></code>
+<code><img src = "https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/> </a></code>
+<!-- <code><img src = "https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code> -->
+</p>
 </td>
 <td width="50%" align="center" valign="top">
 
