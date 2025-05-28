@@ -141,33 +141,39 @@
 ---
 <!-- GitHub Analytics Section -->
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
-<div align="center">
 
-  <!-- Top Languages Box with Reduced Height -->
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
+
+  <!-- Top Languages -->
   <img height="200px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkhanke&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-  
-  <!-- GitHub Stats -->
-  <img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api?username=rajkhanke&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
+  <!-- Right Side: Stats -->
+  <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api?username=rajkhanke&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </div>
 
 <br/>
 
-<div align="center">
+<!-- Streak + Live Stats -->
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
 
   <!-- GitHub Streak -->
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkhanke&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkhanke&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
+  <!-- Live Stats Badges -->
+  <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+    <img src="https://komarev.com/ghpvc/?username=rajkhanke&label=Profile%20Views&color=8b5cf6&style=for-the-badge&logo=eye" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/RajKhanke?label=Followers&style=for-the-badge&color=8b5cf6&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/RajKhanke?label=Total%20Stars&style=for-the-badge&color=8b5cf6&logo=star" alt="Total Stars" />
+  </div>
 </div>
 
 <br/>
 
+<!-- Trophies -->
 <div align="center">
-
-  <!-- GitHub Profile Trophy -->
   <img width="80%" src="https://github-profile-trophy.vercel.app/?username=rajkhanke&theme=radical&no-frame=true&row=1&column=6"/>
-
 </div>
+
 
 
 
