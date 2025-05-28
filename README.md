@@ -15,7 +15,7 @@
 ---
 ###
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
+## <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/source/aa435024091547.563300b2b7d71.gif" width = 41px>&nbsp;&nbsp; About Me
 <img align = "right" src = "https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif" width = 250px></img>
 
 - 👋 Passionate Data Science & AIML Developer currently exploring GenAI & MLOPS
