@@ -62,7 +62,10 @@ class RajKhanke:
 raj = RajKhanke()
 print(f"Hi! I'm {raj.name} 👋")
 ```
-
+<div>
+<h3 align="left">My Contributions :</h3>
+<img src="https://raw.githubusercontent.com/RajKhanke/RajKhanke/output/snake.svg" alt="Snake animation" />
+</div>
 </td>
 <td width="50%" align="center" valign="top">
 
