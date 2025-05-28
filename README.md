@@ -15,7 +15,7 @@
 ---
 ###
 
-## <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/source/aa435024091547.563300b2b7d71.gif" width = 41px>&nbsp;&nbsp; About Me
+## <img src = "https://iconscout.com/lottie-animation/hacker-9060123_7387934" width = 41px>&nbsp;&nbsp; About Me
 <img align = "right" src = "https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif" width = 250px></img>
 
 - 👋 Passionate Data Science & AIML Developer currently exploring GenAI & MLOPS
