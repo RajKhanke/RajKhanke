@@ -140,7 +140,7 @@
 
 ---
 <!-- GitHub Analytics Section -->
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Tech Stack
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
 <div align="center">
 
   <!-- Top Languages Box with Reduced Height -->
