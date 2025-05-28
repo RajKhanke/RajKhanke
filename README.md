@@ -15,8 +15,7 @@
 ---
 ###
 
-## <img src = "![image](https://github.com/user-attachments/assets/f94153ea-37f8-4cc1-b6a6-fde3cdb5d3dc)
-" width = 41px>&nbsp;&nbsp; About Me
+## <img src = "https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif" width = 41px>&nbsp;&nbsp; About Me
 <img align = "right" src = "https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif" width = 250px></img>
 
 - 👋 Passionate Data Science & AIML Developer currently exploring GenAI & MLOPS
