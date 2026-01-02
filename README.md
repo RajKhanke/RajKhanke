@@ -163,13 +163,6 @@
 <!-- GitHub Analytics Section -->
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
-
-  <!-- Right Side: Stats -->
-  <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api?username=rajkhanke&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</div>
-
-<br/>
 
 <!-- Streak + Live Stats -->
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
@@ -189,9 +182,6 @@
 
 <!-- Trophies -->
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=RajKhanke&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-</div>
 
 
 ---
