@@ -22,8 +22,8 @@
 - 🏫 Final year B.Tech student at Vishwakarma Institute Technology, Pune in CSE(AIML)
 - 🧑‍💻 Curious to learn Things and Technologies and adaptible to changes with Ability for Rapid Application Developement
 - ⭐ Contributer at [`GSSoC'24`](https://gssoc.girlscript.tech/). (Achieved 103rd Rank) and  [`Hactoberfest'24`](https://hacktoberfest.com/).
-- ⭐ Led a Hackathon Team to Victories at [`Cavista Hackathon 2025`](https://cavista-hackathon-2025.devpost.com/) and [`AGRI-AI Hackathon 2025`](https://unstop.com/hackathons/agriai-hackathon-abhisarga-2025-indian-institute-of-information-technology-iiit-sricity-1390394).
-- ⭐ part of Runner-Up Hackathon Teams at [`Smart India Hackathon (SIH) 2024`](https://www.sih.gov.in/). and  [`Odyssey of Code Hackathon 2025`](https://unstop.com/hackathons/odyssey-of-code-consultadd-inc-1434772).
+- ⭐ Led a Hackathon Team to Victories at [`Cavista Hackathon 2025`](https://cavista-hackathon-2025.devpost.com/),  [`Lattice Semiconductor Hackathon 2025`](https://www.linkedin.com/posts/nakul--arora_latticehackathon2025-phoenixedge-aiinnovation-activity-7401224961371217920-e6e5/) and [`AGRI-AI Hackathon 2025`](https://unstop.com/hackathons/agriai-hackathon-abhisarga-2025-indian-institute-of-information-technology-iiit-sricity-1390394).
+- ⭐ part of Runner-Up Hackathon Teams at [`Smart India Hackathon (SIH) 2024`](https://www.sih.gov.in/),  [`Smart India Hackathon (SIH) 2025`](https://www.sih.gov.in/) and  [`Odyssey of Code Hackathon 2025`](https://unstop.com/hackathons/odyssey-of-code-consultadd-inc-1434772).
 - 🙂 I spend my free time stalking all my friends' activities — and in my working hours, I just do it professionally
 
 
